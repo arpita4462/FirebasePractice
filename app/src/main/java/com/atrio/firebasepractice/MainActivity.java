@@ -57,5 +57,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+    private void senddData(){
+        Log.i("Hii","Helloworld");
+    }
 
 }
