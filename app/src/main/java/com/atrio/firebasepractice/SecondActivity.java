@@ -2,6 +2,7 @@ package com.atrio.firebasepractice;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 
 public class SecondActivity extends AppCompatActivity {
 
@@ -12,6 +13,7 @@ public class SecondActivity extends AppCompatActivity {
     }
 
     public void master(){
+        Log.i("create value","Value added");
 
 
     }
