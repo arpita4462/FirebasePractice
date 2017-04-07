@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-    private void push(){
+    private void send(){
         Log.i("Hii","Arpita...Patel");
     }
 
